@@ -5,7 +5,9 @@
 npm install
 ```
 ```
-npm install tailwindcss postcss autofixer
+npm install tailwindcss postcss autoprefixer
+
+//no agregar
 npx tailwindcss init -p
 
 ```
