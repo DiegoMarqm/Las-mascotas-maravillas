@@ -4,6 +4,12 @@
 ```
 npm install
 ```
+```
+npm install tailwindcss
+```
+```
+npm install firebase
+```
 
 ### Compiles and hot-reloads for development
 ```
