@@ -6,6 +6,8 @@ npm install
 ```
 ```
 npm install tailwindcss
+npx tailwindcss init
+
 ```
 ```
 npm install firebase
